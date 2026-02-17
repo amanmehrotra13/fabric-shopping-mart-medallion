@@ -1,0 +1,7 @@
+[
+    {
+        "source_url" : "refs/heads/main/source_data/unstructured/reviews.json",
+        "sink_folder" : "ShoppingMart_Bronze_Reviews",
+        "sink_file" : "ShoppingMart_review.json"
+    }
+]
